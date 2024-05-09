@@ -39,3 +39,6 @@ Aquí se detallarán todos los cambios que se harán respecto a la actualidad, *
 ### Capítulo III
 #### Reformas
 Aquí se detallarán las reformas necesarias a otras leyes para poder introducir las reformas propuestas en el Capítulo II
+### Capítulo IV
+#### Protocolo
+Aquí irá todo lo respectivo al protocolo de un proyecto de ley.
