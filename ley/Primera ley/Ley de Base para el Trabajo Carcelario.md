@@ -18,17 +18,17 @@ A tener en cuenta:
 En nuestro país, vivimos una situación distópica. Los ciudadanos de bien, que cumplen con las leyes, trabajan y al día pagan sus cargas tributarias, deben mantener a personas que no cumplieron las leyes, que perjudicaron al trabajador, y que, al no tener gastos propios, no tributan. Inclusive, en la mayoría de casos, viviendo mejor que los trabajadores. Además de tener condiciones y tratos que no incentivan a no cometer delitos, sino al contrario, incentivando a cometerlos para vivir con ciertos privilegios extras.
 Es por eso que, nosotros, los Diputados y Senadores de la Nación, elegidos democráticamente por el pueblo al que representamos, y haciendo siempre respetar nuestra Constitución Nacional, sancionamos:
 
-# Capítulo I
+# Sección I
 ## Sobre la presente ley
 **Artículo 1.-** 
 
-# Capítulo II
+# Sección II
 ## Cambios
 
-# Capítulo III
+# Sección III
 ## Reformas
 
-# Capítulo IV
+# Sección IV
 ## Protocolo
 **Artículo 2.-** Comuníquese al Poder Ejecutivo.
 

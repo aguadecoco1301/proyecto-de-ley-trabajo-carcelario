@@ -28,17 +28,17 @@ Si, aunque se debe debatir entre las personas interesadas, a diferencia de las r
 - [ ] Reducir un impuesto x en un porcentaje.
 - [ ] Fundamentar.
 
-# Guía de Capítulos
+# Guía de Secciones
 ## Ley de Base...
-### Capítulo I
+### Sección I
 #### Objeto de la Ley
 Aquí se detallarán los objetivos de la ley, el qué queremos lograr **específicamente** en dicha reforma.
-### Capítulo II
+### Sección II
 #### Cambios <!-- Es necesario un mejor nombre. -->
-Aquí se detallarán todos los cambios que se harán respecto a la actualidad, **sin** tener artículos que reformen alguna ley. Eso irá en el Capítulo III
-### Capítulo III
+Aquí se detallarán todos los cambios que se harán respecto a la actualidad, **sin** tener artículos que reformen alguna ley. Eso irá en la Sección III
+### Sección III
 #### Reformas
-Aquí se detallarán las reformas necesarias a otras leyes para poder introducir las reformas propuestas en el Capítulo II
-### Capítulo IV
+Aquí se detallarán las reformas necesarias a otras leyes para poder introducir las reformas propuestas en la Sección II
+### Sección IV
 #### Protocolo
 Aquí irá todo lo respectivo al protocolo de un proyecto de ley.
