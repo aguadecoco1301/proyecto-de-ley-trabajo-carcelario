@@ -8,6 +8,7 @@ A tener en cuenta:
 		- tratados internacionales
 	- Leer el archivo CONTRIBUCION.md antes de modificar algo.
 	- Al ser un proyecto de ley, debe ser escrito como lo que es, una ley. No hablar a futuro o con posibilidad de que se apruebe. Imagínese que usted es un dictador que está decretando los cambios siguiendo lo antes escrito.
+	- Para mantener un orden, no introduciremos epígrafes.
 -->
 # PROYECTO DE LEY
 ## El Senado y la Cámara de Diputados...
@@ -18,5 +19,20 @@ En nuestro país, vivimos una situación distópica. Los ciudadanos de bien, que
 Es por eso que, nosotros, los Diputados y Senadores de la Nación, elegidos democráticamente por el pueblo al que representamos, y haciendo siempre respetar nuestra Constitución Nacional, sancionamos:
 
 # Capítulo I
-## <!-- Descripción -->
+## Sobre la presente ley
 **Artículo 1.-** 
+
+# Capítulo II
+## Cambios
+
+# Capítulo III
+## Reformas
+
+# Capítulo IV
+## Protocolo
+**Artículo 2.-** Comuníquese al Poder Ejecutivo.
+
+**NOMBRE DEL AUTOR**
+
+# FUNDAMENTOS
+
