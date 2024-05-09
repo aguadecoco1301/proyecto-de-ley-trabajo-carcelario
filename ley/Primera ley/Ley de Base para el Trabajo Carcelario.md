@@ -1,3 +1,13 @@
+<!--
+A tener en cuenta:
+	Esta ley es presentada como iniciativa popular. POR LO QUE NO PUEDE REFORMAR:
+		- la Constitución
+		- materia penal
+		- materia tributaria
+		- materia presupuestaria
+		- tratados internacionales
+	Leer el archivo CONTRIBUCION.md antes de modificar algo.
+-->
 # PROYECTO DE LEY
 ## El Senado y la Cámara de Diputados...
 
